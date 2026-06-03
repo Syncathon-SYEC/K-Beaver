@@ -1,3 +1,7 @@
+**<맞춤 주택 임대 플래너> **
+싱커톤 시즌 3 국민은행 트랙 입상(4등 / 800여팀)
+https://blog.naver.com/synctree/223261082267
+-------------------
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
